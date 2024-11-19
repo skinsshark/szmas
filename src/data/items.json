@@ -3,5 +3,28 @@
     "name": "Fritz Hansen Vase",
     "details": "9.4\" height in Forest Green",
     "src": "/assets/vase.png"
+  },
+  {
+    "name": "Sandy Liang x SUBU",
+    "details": "Size 00 in Red",
+    "src": "/assets/subu.png"
+  },
+  {
+    "name": "Aesop Geranium Leaf Body Scrub",
+    "src": "/assets/bodyscrub.png"
+  },
+  {
+    "name": "We're Not Really Strangers",
+    "src": "/assets/wnrs.png"
+  },
+  {
+    "name": "Matcha Whisk Stand",
+    "details": "A small, cute whisk stand!",
+    "src": "/assets/matchawhiskstand.png"
+  },
+  {
+    "name": "Sturdy Case for Mahjong",
+    "details": "A don't trust my current case",
+    "src": "/assets/mahjongcase.png"
   }
 ]

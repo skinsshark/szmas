@@ -13,22 +13,7 @@ function App() {
     <>
       <h1 className={styles.title}>sharon zheng xmas wishlist</h1>
       <div className={styles.wrapper}>
-        {[
-          ...items,
-          ...items,
-          ...items,
-          ...items,
-          ...items,
-          ...items,
-          ...items,
-          ...items,
-          ...items,
-          ...items,
-          ...items,
-          ...items,
-          ...items,
-          ...items,
-        ].map((item: ItemDataType, i: number) => {
+        {items.map((item: ItemDataType, i: number) => {
           return <Item key={i} item={item} />;
         })}
       </div>
