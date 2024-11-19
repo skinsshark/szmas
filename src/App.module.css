@@ -1,17 +1,13 @@
 .title {
   font-size: 1rem;
   font-weight: normal;
-  margin: 1rem 2rem;
+  margin: 1vw 2vw;
 }
 
 .wrapper {
   display: flex;
-  overflow-x: scroll;
   height: 88svh;
-}
-
-.wrapper {
-  overflow: auto;
+  overflow: scroll;
   scrollbar-width: none;
 }
 
