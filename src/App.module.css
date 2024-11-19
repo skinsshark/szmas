@@ -1,0 +1,20 @@
+.title {
+  font-size: 1rem;
+  font-weight: normal;
+  margin: 1rem 2rem;
+}
+
+.wrapper {
+  display: flex;
+  overflow-x: scroll;
+  height: 88svh;
+}
+
+.wrapper {
+  overflow: auto;
+  scrollbar-width: none;
+}
+
+.wrapper::-webkit-scrollbar {
+  display: none;
+}

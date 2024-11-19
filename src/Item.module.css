@@ -1,0 +1,25 @@
+.wrapper {
+  width: 30vw;
+  min-width: 300px;
+  margin: 0 4vw;
+  flex-direction: column;
+  flex-grow: 1;
+  flex-shrink: 0;
+}
+
+.wrapper img {
+  width: 100%;
+  height: auto;
+}
+
+.wrapper figcaption {
+  display: block;
+}
+
+.wrapper.top {
+  align-self: flex-start;
+}
+
+.wrapper.bottom {
+  align-self: flex-end;
+}
