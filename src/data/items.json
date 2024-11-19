@@ -24,7 +24,11 @@
   },
   {
     "name": "Sturdy Case for Mahjong",
-    "details": "A don't trust my current case",
+    "details": "I don't trust my current case",
     "src": "/assets/mahjongcase.png"
+  },
+  {
+    "name": "A Green Card",
+    "src": "/assets/greencard.png"
   }
 ]
