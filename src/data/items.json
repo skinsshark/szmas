@@ -14,13 +14,27 @@
     "src": "/assets/bodyscrub.png"
   },
   {
-    "name": "We're Not Really Strangers",
+    "name": "We're Not Really Strangers Card Game",
     "src": "/assets/wnrs.png"
+  },
+  {
+    "name": "Cocoplush Threaders",
+    "details": "I'm done Invisalign!! But I have a wire now",
+    "src": "/assets/cocoplush.png"
   },
   {
     "name": "Matcha Whisk Stand",
     "details": "A small, cute whisk stand!",
     "src": "/assets/matchawhiskstand.png"
+  },
+  {
+    "name": "HEPA AP-1512HH/AP-1518R Filters",
+    "details": "For my Coway air purifier",
+    "src": "/assets/filters.png"
+  },
+  {
+    "name": "Nünchi Jelly Cake",
+    "src": "/assets/nunchi.png"
   },
   {
     "name": "Sturdy Case for Mahjong",
