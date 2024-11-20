@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Your Netflix Account",
+    "details": "Please",
+    "src": "/assets/netflix.png"
+  },
+  {
+    "name": "HEPA AP-1512HH/AP-1518R Filters",
+    "details": "For my Coway air purifier",
+    "src": "/assets/filters.png"
+  },
+  {
+    "name": "Cocoplush Threaders",
+    "details": "I'm done Invisalign!! But I have a wire now",
+    "src": "/assets/cocoplush.png"
+  }
+]
