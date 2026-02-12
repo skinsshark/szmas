@@ -11,7 +11,9 @@ export type ItemDataType = {
 function App() {
   return (
     <>
-      <h1 className={styles.title}>sharon zheng xmas wishlist</h1>
+      <h1 className={styles.title}>
+        sharon zheng wishlist (in no particular order)
+      </h1>
       <div className={styles.wrapper}>
         {items.map((item: ItemDataType, i: number) => {
           return <Item key={i} item={item} />;
