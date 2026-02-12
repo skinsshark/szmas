@@ -6,35 +6,72 @@
   },
   {
     "name": "Sandy Liang x SUBU",
-    "details": "Size 00 in Red",
+    "details": "size 00 in Red",
     "src": "/assets/subu.png"
   },
   {
-    "name": "Aesop Geranium Leaf Body Scrub",
-    "src": "/assets/bodyscrub.png"
+    "name": "Supreme x Tiffany Bracelet",
+    "src": "/assets/bracelet.png"
   },
   {
-    "name": "We're Not Really Strangers Card Game",
-    "src": "/assets/wnrs.png"
+    "name": "Caran d'Ache Pen",
+    "details": "in a color I'll love",
+    "src": "/assets/carandache.png"
   },
   {
-    "name": "Matcha Whisk Stand",
-    "details": "A small, cute whisk stand!",
-    "src": "/assets/matchawhiskstand.png"
+    "name": "Akari 24N by Noguchi",
+    "src": "/assets/akari.png"
   },
   {
-    "name": "Just Dance 2019 and 2020",
-    "details": "These are the only ones I don't have",
-    "src": "/assets/justdance.png"
+    "name": "Pin Frog for flowers",
+    "src": "/assets/frog.jpg"
+  },
+  {
+    "name": "Paper Guillotine",
+    "details": "a really good one",
+    "src": "/assets/guillotine.png"
   },
   {
     "name": "Nünchi Jelly Cake",
     "src": "/assets/nunchi.png"
   },
   {
-    "name": "Sturdy Case for Mahjong",
-    "details": "I don't trust my current case",
+    "name": "Head Massager",
+    "src": "/assets/head.png"
+  },
+  {
+    "name": "Logitech Casa Pop-Up Desk",
+    "details": "in Pink",
     "src": "/assets/mahjongcase.png"
+  },
+  {
+    "name": "Farmacy Makeup Remover",
+    "src": "/assets/makeupremover.png"
+  },
+  {
+    "name": "Label Maker",
+    "src": "/assets/labelmaker.png"
+  },
+  {
+    "name": "Switch Controllers",
+    "src": "/assets/switch.png"
+  },
+  {
+    "name": "Acne Multipocket Bag",
+    "src": "/assets/purse.png"
+  },
+  {
+    "name": "Sturdy Case for Mahjong",
+    "src": "/assets/mahjongcase.png"
+  },
+  {
+    "name": "Traditional Mahjong table",
+    "details": "with the cup holders is best",
+    "src": "/assets/mahjongtable.png"
+  },
+  {
+    "name": "Pen Plotter",
+    "src": "/assets/penplotter.png"
   },
   {
     "name": "A Green Card",
